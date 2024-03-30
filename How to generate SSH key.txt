@@ -1,0 +1,2 @@
+ssh-keygen -t ed25519 -C "r.kurhade3@gmail.com"
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFtDulxscQP73ErAkvqMtsxWY2H65e6yBsNAT1+U3oQp r.kurhade3@gmail.com
