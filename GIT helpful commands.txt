@@ -1,0 +1,6 @@
+#To pull from remote
+git pull origin master --allow-unrelated-histories
+
+#To change remote server details
+git remote set-url origin url
+
